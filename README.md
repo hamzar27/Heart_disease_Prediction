@@ -10,3 +10,9 @@ The project leverages R Shiny to create a web application that allows users to u
 
 The dataset used in this project is the Heart Disease Dataset, which is publicly available on the UCI Machine Learning Repository. It contains various medical attributes related to heart health, such as age, sex, chest pain type, cholesterol levels, and more. The dataset is provided in a CSV format (heart.csv).
 
+**Value Proposition:**
+- Early detection of potential heart disease risks.
+- User-friendly interface for non-technical users.
+- Interactive data exploration and visualization.
+- Accurate prediction models based on comprehensive data analysis.
+
